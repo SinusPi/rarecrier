@@ -1,0 +1,6 @@
+## Interface: 80300
+## Title: RareAnnounce
+## Author: SinusPi
+## Notes: announce rare mobs
+
+core.lua
